@@ -1,6 +1,8 @@
 cont = 3
 con = 0
 dif = 0
+
+
 for i in range(cont):
     vol = int(input("Ingrese un valor de voltaje:"))
     con = con + vol
